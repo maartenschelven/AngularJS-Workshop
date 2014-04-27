@@ -1,0 +1,72 @@
+[
+   {
+    "name": "snapshot06",
+    "number": 6,
+    "message": "Updating a span when input text changes using Backbone.",
+    "files": [
+      "index.html"
+    ],
+    "url": "https://github.com/curran/screencasts/tree/gh-pages/introToAngular/examples/snapshots/snapshot06",
+    "runUrl": "http://curran.github.io/screencasts/introToAngular/examples/snapshots/snapshot06"
+  },
+  {
+    "name": "snapshot07",
+    "number": 7,
+    "message": "Updating a template when input text changes using Angular.",
+    "files": [
+      "index.html"
+    ],
+    "url": "https://github.com/curran/screencasts/tree/gh-pages/introToAngular/examples/snapshots/snapshot07",
+    "runUrl": "http://curran.github.io/screencasts/introToAngular/examples/snapshots/snapshot07"
+  },
+  {
+    "name": "snapshot08",
+    "number": 8,
+    "message": "Data binding with many text inputs.",
+    "files": [
+      "index.html"
+    ],
+    "url": "https://github.com/curran/screencasts/tree/gh-pages/introToAngular/examples/snapshots/snapshot08",
+    "runUrl": "http://curran.github.io/screencasts/introToAngular/examples/snapshots/snapshot08"
+  },
+  {
+    "name": "snapshot09",
+    "number": 9,
+    "message": "First name and last name.",
+    "files": [
+      "index.html"
+    ],
+    "url": "https://github.com/curran/screencasts/tree/gh-pages/introToAngular/examples/snapshots/snapshot09",
+    "runUrl": "http://curran.github.io/screencasts/introToAngular/examples/snapshots/snapshot09"
+  },
+  {
+    "name": "snapshot10",
+    "number": 10,
+    "message": "Initializing the model using an Angular controller, defined with a global function.",
+    "files": [
+      "index.html"
+    ],
+    "url": "https://github.com/curran/screencasts/tree/gh-pages/introToAngular/examples/snapshots/snapshot10",
+    "runUrl": "http://curran.github.io/screencasts/introToAngular/examples/snapshots/snapshot10"
+  },
+  {
+    "name": "snapshot11",
+    "number": 11,
+    "message": "Initializing the model using an Angular controller, defined within an Angular module.",
+    "files": [
+      "index.html"
+    ],
+    "url": "https://github.com/curran/screencasts/tree/gh-pages/introToAngular/examples/snapshots/snapshot11",
+    "runUrl": "http://curran.github.io/screencasts/introToAngular/examples/snapshots/snapshot11"
+  },
+  {
+    "name": "snapshot12",
+    "number": 12,
+    "message": "Changing scope values asynchronously - updates don't propagate without .apply().",
+    "files": [
+      "index.html"
+    ],
+    "url": "https://github.com/curran/screencasts/tree/gh-pages/introToAngular/examples/snapshots/snapshot12",
+    "runUrl": "http://curran.github.io/screencasts/introToAngular/examples/snapshots/snapshot12"
+  }
+]
